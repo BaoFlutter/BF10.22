@@ -1,0 +1,11 @@
+const String DANH_GIA_HOC_SINH = "Đánh giá học sinh" ;
+const String DIEM_TOAN = "Điểm Toán";
+const String DIEM_VAN = "Điểm Văn";
+const String DIEM_ANH = "Điểm ANH";
+const String NHAP_DIEM_TOAN = "Nhập Điểm Toán";
+const String NHAP_DIEM_VAN = "Nhập Điểm Văn";
+const String NHAP_DIEM_ANH = "Nhập Điểm Anh";
+const String DANH_GIA = "Đánh giá";
+const String DIEM_TRUNG_BINH = "Điểm Trung Bình";
+const String HOC_LUC = "Học lực";
+const String THONG_TIN = "Thông tin";
