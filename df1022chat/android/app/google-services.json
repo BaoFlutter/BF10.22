@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906950590611",
+    "project_id": "bf1022chat",
+    "storage_bucket": "bf1022chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906950590611:android:baa797324ef5edccb88d66",
+        "android_client_info": {
+          "package_name": "com.baoflutter.df1022chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906950590611-d55kn19ekuaaa3kpubp73kjbqrvbeorl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEaSeKwlHtVrZFZ9QQ6SDkEzUoVD_YvbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906950590611-d55kn19ekuaaa3kpubp73kjbqrvbeorl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
